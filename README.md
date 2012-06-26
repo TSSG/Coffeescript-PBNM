@@ -21,5 +21,6 @@ the policies and requests can become more domain aware, meaning the PDP decision
 This software is considered beta at the moment and is a work in progress.
 
 Any questions or queries please email me on lgriffin@tssg.org
+Suggestions and improvements would be appreciated.
 
 Leigh. 26-Jun-2012
