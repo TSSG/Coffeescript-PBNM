@@ -24,3 +24,8 @@ Any questions or queries please email me on lgriffin@tssg.org
 Suggestions and improvements would be appreciated.
 
 Leigh. 26-Jun-2012
+
+# Licence
+[Apache License : Version 2.0, January 2004](https://github.com/TSSG/Coffeescript-PBNM/blob/master/LICENSE)
+
+Copyright (C) 2012, TSSG, WIT.
